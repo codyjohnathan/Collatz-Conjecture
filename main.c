@@ -1,8 +1,4 @@
-#include <stdbool.h>
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <cs50.h>
 
 int counter = 0;
 
@@ -22,14 +18,13 @@ int collatz(int n)
         return counter;
     }
 
-    // Odd number
+    // Odd numbers
     else
     {
         collatz((3 * n) + 1);
         counter++;
         return counter;
     }
-
 
 }
 
