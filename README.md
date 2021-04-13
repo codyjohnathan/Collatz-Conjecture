@@ -10,11 +10,13 @@ Further explore the uses of Recursion utilising a mathematical conjecture:
 
 - Global variable
 
+# Learning Outcomes: 
+- Gained a firmer grasp on effectively using recursion to elegantly solve problems
+- Successfully wrote a clean and understandable function for the Collatz conjecture that handles all cases
+- Affirmed understanding of effectively using memory addresses in C with scanf() 
+
+
 References:
 - https://en.wikipedia.org/wiki/Collatz_conjecture#:~:text=The%20Collatz%20conjecture%20is%20a,half%20of%20the%20previous%20term.
 
 
-Learning Outcomes: 
-- Gained a firmer grasp on effectively using recursion to elegantly solve problems
-- Successfully wrote a clean and understandable function for the Collatz conjecture that handles all cases
-- Affirmed understanding of effectively using memory addresses in C with scanf() 
